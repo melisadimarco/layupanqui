@@ -1183,7 +1183,7 @@ input, select, textarea {
 
 		/* Imagen de fondo por defecto (si querés para desktop) */
 #bg {
-	background-image: url("https://i.ibb.co/LzB4dt4d/Fondo-Desktop.jpg");
+	background-image: url("https://i.ibb.co/HL2LmrKS/Fondo-desktop.jpg");
 	background-size: cover;
 	background-position: center;
   }
@@ -1191,7 +1191,7 @@ input, select, textarea {
   /* Imagen de fondo para mobile */
   @media screen and (max-width: 768px) {
 	#bg {
-	  background-image: url("https://i.ibb.co/Cp8Zq6x4/mobile.jpg");
+	  background-image: url("https://i.ibb.co/HT7y7zhN/Fondo-mobile.jpg");
 	}
   }
 
