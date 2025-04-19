@@ -1191,7 +1191,7 @@ input, select, textarea {
   /* Imagen de fondo para mobile */
   @media screen and (max-width: 768px) {
 	#bg {
-	  background-image: url("https://i.ibb.co/jPGmP27C/Fondo-Mobile.jpg");
+	  background-image: url("https://i.ibb.co/hF7L779Z/Fondo-Mobile.jpg");
 	}
   }
 
